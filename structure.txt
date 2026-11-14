@@ -1,0 +1,25 @@
+Features :
+Create travel trips
+Add expenses to a trip
+View all trips and expenses
+Search trips by destination
+Filter expenses by category
+Update and delete expenses
+Calculate total trip expenses
+Compare actual spending with the trip budget
+Display travel expense statistics
+
+Project Structure :
+Personal_Travel_Expense_Tracker/
+│
+├── main.py
+├── travel_manager.py
+├── storage.py
+├── utils.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    └── trips.json
